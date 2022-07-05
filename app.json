@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "nft_marketplace",
-    "slug": "nft_marketplace",
+    "name": "NFT Mart",
+    "slug": "nft_mart",
+    "description": "This is NFT marketplace , where you can get details of all NFT'S",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
